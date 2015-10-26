@@ -1,0 +1,1 @@
+# PyHumAdaptation is the code written to adapt PyHum to process Humminbird images to fit specifications detailed in my masters thesis.  We create images that are cropped at a user input depth, focus on the water column of side scan sonar images and correct for attenuation away from the transducer.
