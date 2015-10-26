@@ -1,0 +1,3 @@
+BONSAI    C:\\Users\\Student\\Documents\\Mike\\Side_Scan_Data\\Reef_Comparison\\Bonsai
+DAILY     C:\\Users\\Student\\Documents\\Mike\\Side_Scan_Data\\Reef_Comparison\\Daily_Comparison
+ABUNDANCE C:\\Users\\Student\\Documents\\Mike\\Side_Scan_Data\\Abundance
