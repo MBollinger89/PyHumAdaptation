@@ -7,3 +7,5 @@ It creates echograms that are:
 2) focus on the water column of side scan sonar images
 3) correct for attenuation away from the transducer.
 
+![alt tag](http://dbuscombe-usgs.github.io/figs/Texas_reef_merged_cropped.png)
+Artificial reef structure off the coast of South Padre Island with school of reef associated fish.
