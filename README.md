@@ -1,6 +1,7 @@
 # PyHum Adaptation
-PyHumAdaptation is the code written to adapt [PyHum](https://github.com/dbuscombe-usgs/PyHum) to process Humminbird images to fit specifications detailed in my masters thesis.  
-    Bollinger, M. 2015. "Validating side scan sonar as a fish survey tool."  University of Texas Rio Grande Valley.  Available:
+PyHumAdaptation is the code written to adapt [PyHum](https://github.com/dbuscombe-usgs/PyHum) to process Humminbird images to fit specifications detailed in my paper:  
+    Bollinger, M.A. and Kline R.J. (2017).  Validating side scan sonar as a fish survey tool over artificial reefs. Journal of Coastal Research. DOI: [10.2112/JCOASTRES-D-16-00174.1](http://www.jcronline.org/doi/abs/10.2112/JCOASTRES-D-16-00174.1)
+
 
 
 It creates echograms that are:
